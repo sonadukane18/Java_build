@@ -1,4 +1,4 @@
-# This program prints Hello, world!
+# This program prints 
 
 print('Hello, world!')
 print("Goodbye,everyone.!")
